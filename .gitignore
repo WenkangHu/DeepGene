@@ -1,8 +1,7 @@
 *.zip
 *.png
 *.h5
-*.csv
-*.json
+utils/EFS_inputs.csv
 data/E.coli/core/*
 data/E.coli/preprocessed/*
 data/E.coli/raw_data/*
