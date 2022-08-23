@@ -1,0 +1,15 @@
+*.zip
+*.png
+*.h5
+*.csv
+*.json
+data/E.coli/core/*
+data/E.coli/preprocessed/*
+data/E.coli/raw_data/*
+data/E.coli/snp_outputs/*
+data/IMDB/*
+data/NO.2data/*
+data/Salmonella/*
+trash
+TensorBoard/train/*
+TensorBoard/validation/*
